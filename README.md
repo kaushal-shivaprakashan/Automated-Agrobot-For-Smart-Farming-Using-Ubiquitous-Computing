@@ -1,4 +1,4 @@
-# Automated Agrobot for Smart Farming Using Ubiquitous Computing (IoT + Data Engineering + AI)
+# Automated Agrobot for Smart Farming Using Ubiquitous Computing (IoT + Data Engineering + ML)
 
 Agriculture is rapidly evolving with the adoption of **IoT, automation, and cloud-based intelligence**. However, farmers still face major challenges such as **unsafe pesticide spraying**, **lack of real-time field visibility**, and **limited access to actionable insights**.  
 To solve these problems, this project introduces an **IoT-driven Autonomous Agrobot** that automates pesticide spraying while continuously collecting environmental data and transforming it into meaningful insights using **data engineering and analytics pipelines**.
